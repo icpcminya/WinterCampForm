@@ -8,7 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="w-full flex justify-center p-4">
+    <div className="w-full flex justify-center p-0 md:p-4">
       <Toaster
         position="bottom-right"
         reverseOrder={false}
