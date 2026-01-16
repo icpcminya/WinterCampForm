@@ -161,6 +161,7 @@ const RegistrationForm = ({ category }) => {
         { value: 'Minya University', label: 'Minia University' },
         { value: 'Minia National University', label: 'Minia National University' },
         { value: 'Lotus University', label: 'Lotus University' },
+        { value: 'EST', label: 'EST' },
         { value: 'Other', label: 'Other' },
     ];
 
